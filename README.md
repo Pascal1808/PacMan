@@ -1,12 +1,12 @@
 # PacMan
 
-**game idee**
+# game idee
 
-# -pacman + templerun movement en obstacels
-# -pacman speedrun (time limit)
+**-pacman + templerun movement en obstacels**
+**-pacman speedrun (time limit)**
 
-**als we tijd hebben**
+# als we tijd hebben
 
-# --pacman mirrored puzzle 
-# --pacman muziek timing
+**--pacman mirrored puzzle**
+**--pacman muziek timing**
 
