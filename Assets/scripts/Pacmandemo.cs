@@ -11,9 +11,10 @@ public class Pacmandemo : MonoBehaviour
     void Update()
     {
         float moveHorizontal = Input.GetAxis("Horizontal");
+        
         float moveVertical = Input.GetAxis("Vertical");
         
-        Vector3 movement = new Vector3(moveHorizontal, 0.0f, moveVertical);
+        Vector2 movement = new Vector2(moveHorizontal, moveVertical);
 
         transform.Translate(movement * speed * Time.deltaTime);       
     }
