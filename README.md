@@ -29,3 +29,4 @@
 
 -als pacman gepakt wordt of een manier heeft om hun te defeaten
 
+![alt text](flowchartPacman.png)
