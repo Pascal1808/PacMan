@@ -38,7 +38,11 @@ TextureImporter:
   textureSettings:
     serializedVersion: 2
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
     filterMode: 0
+=======
+    filterMode: 1
+>>>>>>> Stashed changes
 =======
     filterMode: 1
 >>>>>>> Stashed changes
