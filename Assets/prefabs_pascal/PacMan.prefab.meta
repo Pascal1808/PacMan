@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< Updated upstream:Assets/prefabs_pascal/PacMan.prefab.meta
 guid: 8c1673d884f5d9f43a95ba84bb45fb27
+=======
+guid: 9600db9569439c644ac3109dde973b26
+>>>>>>> Stashed changes:Assets/prefabs/PacMan.prefab.meta
 PrefabImporter:
   externalObjects: {}
   userData: 
