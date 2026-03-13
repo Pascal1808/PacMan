@@ -31,6 +31,10 @@
 
 ![alt text](flowchartPacman.png)
 
+# Gameplay loop
+
+![img](GameplayLoop.png)
+
 # Wat we gedaan hebben 3/10/26
 
 -Mees Tervoort heeft de orb gemaakt en de script ervoor, ook en player script met een int voor de orbs.
