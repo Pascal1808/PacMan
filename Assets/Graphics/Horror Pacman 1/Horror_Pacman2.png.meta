@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 3dd4cf21eb6843246938dce5fde57abc
+guid: 3d9a55184fe49f14ca483c028079b38b
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -993823346081149942
-    second: Horror_Pacman1_0
+      213: -5771908297479434480
+    second: Horror_Pacman2_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -37,15 +37,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-<<<<<<< Updated upstream
-<<<<<<< Updated upstream
-    filterMode: 0
-=======
     filterMode: 1
->>>>>>> Stashed changes
-=======
-    filterMode: 1
->>>>>>> Stashed changes
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -108,7 +100,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Horror_Pacman1_0
+      name: Horror_Pacman2_0
       rect:
         serializedVersion: 2
         x: 4
@@ -123,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a0cc757aeea3532f0800000000000000
-      internalID: -993823346081149942
+      spriteID: 01fcb9cfbff06efa0800000000000000
+      internalID: -5771908297479434480
       vertices: []
       indices: 
       edges: []
@@ -143,7 +135,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Horror_Pacman1_0: -993823346081149942
+      Horror_Pacman2_0: -5771908297479434480
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
